@@ -233,6 +233,6 @@ input {
   name: 'voicefileout'
   record_format: 'english-text'
   Part {
-    file_pattern: '/Users/jhren/Documents/workspace/rjhbranch/TnGuidanceTextGenerator/training/tagged_data_for_2016-04.txt'
+    file_pattern: '/Users/jhren/Documents/workspace/rjhbranch/TnGuidanceTextGenerator/training/tagged_data.txt.sn'
   }
 }
