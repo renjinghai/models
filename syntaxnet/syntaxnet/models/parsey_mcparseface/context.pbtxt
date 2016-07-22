@@ -226,13 +226,13 @@ input {
   name: 'voicefilein'
   record_format: 'english-text'
   Part {
-    file_pattern: '/Users/jhren/Documents/workspace/rjhbranch/TnGuidanceTextGenerator/training/unknown_unseen.txt'
+    file_pattern: '/home/voiceadmin/TnGuidanceTextGenerator/training/unknown_unseen.txt'
   }
 }
 input {
   name: 'voicefileout'
   record_format: 'english-text'
   Part {
-    file_pattern: '/Users/jhren/Documents/workspace/rjhbranch/TnGuidanceTextGenerator/training/tagged_data.txt.sn'
+    file_pattern: '/home/voiceadmin/TnGuidanceTextGenerator/training/tagged_data.txt.sn'
   }
 }
